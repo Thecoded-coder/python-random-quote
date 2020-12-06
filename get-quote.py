@@ -1,6 +1,6 @@
-def main():
+def primary():
   print("Keep it logically awesome.")
 
 
 
-  main()
+  primary()
